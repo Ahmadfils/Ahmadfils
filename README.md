@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Ahmadfils! 👋
 
-<!--
-**Ahmadfils/Ahmadfils** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer with interests in web, mobile, desktop development💻  and open-source contributions. Here you'll find a collection of my projects, contributions, and some information about my skills and interests.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages:** JavaScript, Java, C++, PHP, C
+- **Web Development:** HTML, CSS, Angular, Node.js, ExpressJS, Laravel, SpringBoot 
+- **Data Science:** Pandas, NumPy, Matplotlib, Scikit-learn
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Version Control:** Git, GitHub
+- **Other Tools:** Docker, AWS, Linux
+
+## 🌱 Currently Learning
+
+- Advanced Machine Learning techniques
+- Cloud Computing with AWS and Azure
+- DevOps practices and CI/CD pipelines
+
+## 📈 GitHub Stats
+
+![Ahmadfils's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmadfils&show_icons=true&theme=radical)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ahmadfils&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📫 How to Reach Me
+
+- **Email:** ahmadfils257@gmail.com
+- **LinkedIn:** [Ahmad](https://www.linkedin.com/in/abasi-ahmad-bb55a2342)
+- **Twitter:** [@ITwithAbaone](https://x.com/ITwithAbaone)
