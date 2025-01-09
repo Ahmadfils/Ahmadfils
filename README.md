@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in web, 
 
 ## 🏅 Github Badge
 
-[![committers.top badge](https://user-badge.committers.top/burundi/USERNAME.svg)](https://user-badge.committers.top/burundi/Ahmadfils)
+[![committers.top badge](https://user-badge.committers.top/burundi/Ahmadfils.svg)](https://user-badge.committers.top/burundi/Ahmadfils)
 
 ## 📈 GitHub Stats
 
