@@ -1,10 +1,10 @@
-# Hi there, I'm Ir. Ahmad, ! 👋
+# Hi there, I'm Ir. Ahmad ! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with interests in web, mobile, desktop development💻  and open-source contributions. Here you'll find a collection of my projects, contributions, and some information about my skills and interests.
 
 ## 🔧 Technologies & Tools
 
-- **Programming Languages:** JavaScript, Java, C++, PHP, C
+- **Programming Languages:** JavaScript, Java, Kotlin, PHP, C
 - **Web Development:** HTML, CSS, Angular, Node.js, ExpressJS, Laravel, SpringBoot 
 - **Data Science:** Pandas, NumPy, Matplotlib, Scikit-learn
 - **Databases:** MySQL, PostgreSQL, MongoDB
