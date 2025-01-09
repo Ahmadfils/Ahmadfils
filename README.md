@@ -1,4 +1,4 @@
-# Hi there, I'm Ahmadfils! 👋
+# Hi there, I'm Ir. Ahmad, ! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with interests in web, mobile, desktop development💻  and open-source contributions. Here you'll find a collection of my projects, contributions, and some information about my skills and interests.
 
@@ -22,6 +22,11 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in web, 
 
 [![committers.top badge](https://user-badge.committers.top/burundi/Ahmadfils.svg)](https://user-badge.committers.top/burundi/Ahmadfils)
 
+### 📊 Language Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadfils&layout=compact&theme=radical)
+
+
 ## 📈 GitHub Stats
 
 ![Ahmadfils's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmadfils&show_icons=true&theme=radical)
@@ -35,4 +40,4 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in web, 
 - **Email:** ahmadfils257@gmail.com
 - **LinkedIn:** [Ir. Ahmad](https://www.linkedin.com/in/abasi-ahmad-bb55a2342)
 - **Twitter:** [@ITwithAbaone](https://x.com/ITwithAbaone)
-- **My website:**[A-folio](ahmadfils.githubi.io/Afolio)
+- **My website:** [A-folio](ahmadfils.githubi.io/Afolio)
