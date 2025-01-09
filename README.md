@@ -12,8 +12,9 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in web, 
 - **Other Tools:** Docker, AWS, Linux
 
 ## 🌱 Currently Learning
-
-- Advanced Machine Learning techniques
+- Advanced Mobile development 
+- Web3 & Blockchain development 
+- Machine Learning techniques
 - Cloud Computing with AWS and Azure
 - DevOps practices and CI/CD pipelines
 
