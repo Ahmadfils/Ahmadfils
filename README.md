@@ -40,4 +40,4 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in web, 
 - **Email:** ahmadfils257@gmail.com
 - **LinkedIn:** [Ir. Ahmad](https://www.linkedin.com/in/abasi-ahmad-bb55a2342)
 - **Twitter:** [@ITwithAbaone](https://x.com/ITwithAbaone)
-- **My website:** [Aba-folio](https://ahmadfils.github.io/Afolio)
+- **My website:** [Abafolio](https://ahmadfils.github.io/Afolio)
