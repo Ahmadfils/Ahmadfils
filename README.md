@@ -1,4 +1,4 @@
-# Hi there, I'm Ir. Ahmad! 👋
+# Hi there, I'm Ir. Abasi Ahmad! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with interests in web, mobile, desktop development💻  and open-source contributions. Here you'll find a collection of my projects, contributions, and some information about my skills and interests.
 
