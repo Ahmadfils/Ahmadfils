@@ -4,19 +4,12 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in web, 
 
 ## 🔧 Technologies & Tools
 
-- **Programming Languages:** JavaScript, Java, Kotlin, PHP, C
+- **Programming Languages:** JavaScript, Java, Kotlin, PHP, C, Typescript
 - **Web Development:** HTML, CSS, Angular, Node.js, ExpressJS, Laravel, SpringBoot 
-- **Data Science:** Pandas, NumPy, Matplotlib, Scikit-learn
+- **Data Science:** Pandas, Scikit-learn
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Version Control:** Git, GitHub
-- **Other Tools:** Docker, AWS, Linux
-
-## 🌱 Currently Learning
-- Advanced Mobile development 
-- Web3 & Blockchain development 
-- Machine Learning techniques
-- Cloud Computing with AWS and Azure
-- DevOps practices and CI/CD pipelines
+- **Other Tools:** Docker, Linux
 
 ## 🏅 Github Badge
 
@@ -39,5 +32,4 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in web, 
 
 - **Email:** ahmadfils257@gmail.com
 - **LinkedIn:** [Ir. Ahmad](https://www.linkedin.com/in/abasi-ahmad-bb55a2342)
-- **Twitter:** [@ITwithAbaone](https://x.com/ITwithAbaone)
 - **My website:** [Abafolio](https://ahmadfils.github.io/Afolio)
