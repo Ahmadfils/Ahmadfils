@@ -13,18 +13,16 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in web, 
 
 ## 🏅 Github Badge
 
-[![committers.top badge](https://user-badge.committers.top/burundi/Ahmadfils.svg)](https://user-badge.committers.top/burundi/Ahmadfils)
+[![committers.top badge](https://user-badge.committers.top/burundi/Ahmadfils.svg)](https://user-badge.committers.top/burundi/ahmadfils)
 
 ### 📊 Language Stats
 
-![Langages Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmadfils&theme=default)
-
-
+![Langages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmadfils&theme=default)
 
 
 ## 📈 GitHub Stats
 
-![Ahmadfils's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmadfils&show_icons=true&theme=radical)
+![Ahmadfils's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadfils&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
 
