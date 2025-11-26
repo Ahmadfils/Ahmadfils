@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in web, 
 
 ## 🔧 Technologies & Tools
 
-- **Programming Languages:** JavaScript, Java, Kotlin, PHP, C, Typescript
-- **Web Development:** HTML, CSS, Angular, Node.js, ExpressJS, Laravel, SpringBoot 
+- **Programming Languages:** JavaScript, Java, Kotlin, PHP, C, Typescript, Python
+- **Web Development:** Angular, Node.js, ExpressJS, Laravel, SpringBoot 
 - **Data Science:** Pandas, Scikit-learn
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Version Control:** Git, GitHub
