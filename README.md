@@ -31,5 +31,5 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in web, 
 ## 📫 How to Reach Me
 
 - **Email:** ahmadfils257@gmail.com
-- **LinkedIn:** [Ir. Ahmad](https://www.linkedin.com/in/abasi-ahmad-bb55a2342)
+- **LinkedIn:** [A. Abbas](https://www.linkedin.com/in/ahmad-abasi-ab211a37a)
 - **My website:** [Abafolio](https://ahmadfils.github.io/Afolio)
