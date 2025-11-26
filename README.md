@@ -17,7 +17,8 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in web, 
 
 ### 📊 Language Stats
 
-![Langages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmadfils&theme=default)
+![Langages Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TON_USERNAME&theme=default)
+
 
 
 
