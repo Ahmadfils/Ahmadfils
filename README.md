@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in web,
 
 ## 🏅 Github Badge
 
-[![committers.top badge](https://user-badge.committers.top/burundi/ahmadfils.svg)](https://user-badge.committers.top/burundi/ahmadfils)
+[![committers.top badge](https://user-badge.committers.top/burundi/Ahmadfils.svg)](https://user-badge.committers.top/burundi/ahmadfils)
 
 ### 📊 Language Stats
 
@@ -22,11 +22,11 @@ Welcome to my GitHub profile! I'm a passionate developer with experience in web,
 
 ## 📈 GitHub Stats
 
-![Ahmadfils's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmadfils&show_icons=true&theme=radical)
+![Ahmadfils's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmadfils&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ahmadfils&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ahmadfils&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 How to Reach Me
 
