@@ -1,19 +1,19 @@
-# Hi there, I'm Ir. Abasi Ahmad! 👋
+# Hi there, I'm Abasi Ahmad! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with interests in web, mobile, desktop development💻  and open-source contributions. Here you'll find a collection of my projects, contributions, and some information about my skills and interests.
+Welcome to my GitHub profile! I'm a passionate developer with experience in web, mobile, desktop development💻. I'm available and happy to work with you such as on open source or jobs.
 
 ## 🔧 Technologies & Tools
 
-- **Programming Languages:** JavaScript, Java, Kotlin, PHP, C, Typescript, Python
+- **Programming Languages:**  Java, Kotlin, Javascript, Typescript, PHP, C, Python
 - **Web Development:** Angular, Node.js, ExpressJS, Laravel, SpringBoot 
 - **Data Science:** Pandas, Scikit-learn
-- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Databases:** MySQL, PostgreSQL, MongoDB, SQLite
 - **Version Control:** Git, GitHub
 - **Other Tools:** Docker, Linux
 
 ## 🏅 Github Badge
 
-[![committers.top badge](https://user-badge.committers.top/burundi/Ahmadfils.svg)](https://user-badge.committers.top/burundi/ahmadfils)
+[![committers.top badge](https://user-badge.committers.top/burundi/ahmadfils.svg)](https://user-badge.committers.top/burundi/ahmadfils)
 
 ### 📊 Language Stats
 
@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in web, 
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ahmadfils&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ahmadfils&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 How to Reach Me
 
